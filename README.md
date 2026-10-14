@@ -13,7 +13,7 @@ bunx --bun skills add luisguerra293/skills -g
 Uma skill específica:
 
 ```bash
-bunx --bun skills add luisguerra293/skills --skill woocommerce-csv-import -g
+bunx --bun skills add luisguerra293/skills --skill <skill-name> -g
 ```
 
 ## Skills
