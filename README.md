@@ -21,6 +21,7 @@ bunx --bun skills add luisguerra293/skills --skill <skill-name> -g
 | Skill | Descrição |
 |-------|-----------|
 | [woocommerce-csv-import](skills/woocommerce-csv-import/SKILL.md) | Importar, atualizar e resolver problemas de CSV de produtos no WooCommerce |
+| [loco-translate-pt](skills/loco-translate-pt/SKILL.md) | Traduzir `.po` de temas e plugins WordPress (Loco Translate) para português europeu (pt_PT) |
 
 ## Adicionar uma nova skill
 
